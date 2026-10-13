@@ -7,6 +7,7 @@ FILES
 - script.js        Small year display helper
 - privacy.html     Privacy policy draft
 - terms.html       Terms and disclaimer draft
+- Promotional SVG illustrations are embedded directly in index.html (no image folder upload required)
 - CNAME            Custom domain placeholder; use only after you own/verify the domain
 
 IMPORTANT
@@ -33,12 +34,13 @@ DEPLOYMENT STEPS
 1. Create/sign in to a GitHub account you control.
 2. Create a new public repository, for example kmn-financial-services-site.
 3. Upload index.html, styles.css, script.js, privacy.html and terms.html to the repository root.
-4. Open repository Settings > Pages and configure deployment from the main branch/root following the current GitHub instructions.
-5. Test the generated github.io URL on a mobile phone.
-6. After registering and verifying the domain, add the custom domain in Pages settings and follow the exact DNS instructions shown by GitHub and your registrar.
-7. Enable “Enforce HTTPS” when available. DNS and certificate activation may take time.
-8. Test the domain, phone/email/WhatsApp links and legal pages.
-9. Enable domain auto-renewal and account two-factor authentication.
+4. Replace index.html and styles.css with the updated versions from this ZIP.
+5. Open repository Settings > Pages and configure deployment from the main branch/root following the current GitHub instructions.
+6. Test the generated github.io URL on a mobile phone.
+7. After registering and verifying the domain, add the custom domain in Pages settings and follow the exact DNS instructions shown by GitHub and your registrar.
+8. Enable “Enforce HTTPS” when available. DNS and certificate activation may take time.
+9. Test the domain, phone/email/WhatsApp links and legal pages.
+10. Enable domain auto-renewal and account two-factor authentication.
 
 SECURITY
 - This is a static information site, not a secure customer portal.
