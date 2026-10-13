@@ -48,3 +48,11 @@ SECURITY
 - Use unique passwords and two-factor authentication.
 - Keep repository files free of sensitive customer information.
 - HTTPS encrypts the connection; it does not make a static website appropriate for collecting sensitive financial data.
+
+
+COMPLETE WEBSITE UPDATE (PROMO + DRESS CODE + FOUNDER PLACEHOLDER)
+- Replace index.html and styles.css in the GitHub repository with the versions in this package.
+- Promotional service illustrations and the uniform/founder demo illustrations are embedded in index.html.
+- No extra image files need to be uploaded for these sections.
+- The founder picture is a temporary placeholder; replace it when the founder supplies an approved photo.
+- Banking BC/BF remains marked Coming Soon until formal appointment, authorization and activation are complete.
